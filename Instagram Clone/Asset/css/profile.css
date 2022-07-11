@@ -1,0 +1,95 @@
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.profile-picture {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    flex: 0 0 auto;
+    cursor: pointer;
+}
+
+.profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile-user {
+    width: 100%;
+    margin-left: 20px;
+}
+
+.profile-username {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000000;
+    cursor: pointer;
+}
+
+.profile-name {
+    font-size: 14px;
+    color: #6d6d6d;
+    margin-top: 5px;
+}
+
+.profile-button {
+    width: 70px;
+    height: 100%;
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 12px;
+    color: #00a2ff;
+    font-weight: bold;
+}
+
+.suggestions-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.suggestions-text {
+    width: 100%;
+    font-size: 14px;
+    color: #6d6d6d;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.suggestions-button {
+    width: 70px;
+    height: 100%;
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.suggestions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.suggestions .profile-picture {
+    width: 40px;
+    height: 40px;
+}
+
+.sugesst-message {
+    font-size: 12px;
+    color: #6d6d6d;
+    margin-top: 5px;
+}
