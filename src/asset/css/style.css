@@ -1,0 +1,45 @@
+@import url(./navbar.css);
+@import url(./search.css);
+@import url(./stories.css);
+@import url(./posts.css);
+@import url(./profile.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+}
+
+.main-page {
+    width: 100%;
+    padding: 40px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.main-grid {
+    width: 50%;
+    max-width: 1200px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-gap: 30px;
+    margin-top: 30px;
+}
+
+.left-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.right-col {
+    padding: 20px;
+}
