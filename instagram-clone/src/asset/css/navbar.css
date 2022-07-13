@@ -1,0 +1,42 @@
+.nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dfdfdf;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-content {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-logo {
+    height: 80%;
+}
+
+.nav-icons {
+    height: 24px;
+    position: relative;
+}
+
+.nav-icon {
+    height: 100%;
+    margin: 0 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.nav-profile {
+    width: 24px;
+    border-radius: 50%;
+    background-image: url(../img/profile1.jpg);
+    background: cover;
+    background-size: cover;
+}
