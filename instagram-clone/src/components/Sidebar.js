@@ -1,9 +1,22 @@
 import React from "react";
 
-class Suggestions extends React.Component {
+class Sidebar extends React.Component {
     render() {
         return (
             <>
+                <div class="profile">
+                    <div class="profile-picture">
+                        <img
+                            src={require("../asset/img/profile1.jpg")}
+                            alt="Profile pic"
+                        />
+                    </div>
+                    <div class="profile-user">
+                        <p class="profile-username">_xxhwya.2829_</p>
+                        <p class="profile-name">Phạm Hoàng Dương</p>
+                    </div>
+                    <button class="profile-button">Switch</button>
+                </div>
                 <div class="suggestions-header">
                     <p class="suggestions-text">Suggestions For You</p>
                     <button class="suggestions-button">See All</button>
@@ -82,4 +95,4 @@ class Suggestions extends React.Component {
     }
 }
 
-export default Suggestions;
+export default Sidebar;

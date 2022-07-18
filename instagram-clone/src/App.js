@@ -1,25 +1,22 @@
 import React from "react";
-import NavBar from "./components/NavBar";
-import Stories from "./components/Stories";
-import Post from "./components/Post";
-import Profile from "./components/Profile";
-import Suggestions from "./components/Suggestions";
+import Header from "./components/Header";
+import Body from "./components/Body";
+import Sidebar from "./components/Sidebar";
 import "./App.css";
 
+// Hello World
 class App extends React.Component {
     render() {
         return (
             <>
-                <NavBar />
+                <Header />
                 <section class="main-page">
                     <div class="main-grid">
                         <div class="left-col">
-                            <Stories />
-                            <Post />
+                            <Body />
                         </div>
                         <div class="right-col">
-                            <Profile />
-                            <Suggestions />
+                            <Sidebar />
                         </div>
                     </div>
                 </section>
