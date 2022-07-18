@@ -1,6 +1,6 @@
 import React from "react";
 
-class NavBar extends React.Component {
+class Header extends React.Component {
     render() {
         return (
             <nav class="nav-bar">
@@ -56,4 +56,4 @@ class NavBar extends React.Component {
     }
 }
 
-export default NavBar;
+export default Header;
