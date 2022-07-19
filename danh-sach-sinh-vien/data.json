@@ -1,0 +1,110 @@
+[
+    {
+        "maSV": "SV01",
+        "tenSV": "Nguyễn Văn A",
+        "tuoi": 21,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2000",
+        "diemToan": 8,
+        "diemLy": 9,
+        "diemHoa": 7,
+        "diemAnh": 6,
+        "lop": "K20A1"
+    },
+    {
+        "maSV": "SV02",
+        "tenSV": "Nguyễn Văn B",
+        "tuoi": 20,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2001",
+        "diemToan": 7,
+        "diemLy": 8,
+        "diemHoa": 6,
+        "diemAnh": 5,
+        "lop": "K20A2"
+    },
+    {
+        "maSV": "SV03",
+        "tenSV": "Nguyễn Văn C",
+        "tuoi": 20,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2001",
+        "diemToan": 6,
+        "diemLy": 7,
+        "diemHoa": 5,
+        "diemAnh": 4,
+        "lop": "K20A1"
+    },
+    {
+        "maSV": "SV04",
+        "tenSV": "Nguyễn Văn D",
+        "tuoi": 20,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2001",
+        "diemToan": 8,
+        "diemLy": 6,
+        "diemHoa": 6,
+        "diemAnh": 3,
+        "lop": "K20A3"
+    },
+    {
+        "maSV": "SV05",
+        "tenSV": "Nguyễn Văn E",
+        "tuoi": 21,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2000",
+        "diemToan": 6,
+        "diemLy": 5,
+        "diemHoa": 5,
+        "diemAnh": 2,
+        "lop": "K20A2"
+    },
+    {
+        "maSV": "SV06",
+        "tenSV": "Nguyễn Văn F",
+        "tuoi": 21,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2000",
+        "diemToan": 6,
+        "diemLy": 4,
+        "diemHoa": 2,
+        "diemAnh": 4,
+        "lop": "K20A3"
+    },
+    {
+        "maSV": "SV07",
+        "tenSV": "Nguyễn Văn G",
+        "tuoi": 20,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2001",
+        "diemToan": 4,
+        "diemLy": 5,
+        "diemHoa": 4,
+        "diemAnh": 8,
+        "lop": "K20A1"
+    },
+    {
+        "maSV": "SV08",
+        "tenSV": "Nguyễn Văn H",
+        "tuoi": 21,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2000",
+        "diemToan": 6,
+        "diemLy": 6,
+        "diemHoa": 8,
+        "diemAnh": 8,
+        "lop": "K20A1"
+    },
+    {
+        "maSV": "SV09",
+        "tenSV": "Nguyễn Văn I",
+        "tuoi": 20,
+        "gioiTinh": "Nam",
+        "ngaySinh": "01/01/2001",
+        "diemToan": 6,
+        "diemLy": 5,
+        "diemHoa": 7,
+        "diemAnh": 8,
+        "lop": "K20A2"
+    }
+]
